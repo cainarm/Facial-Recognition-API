@@ -10,7 +10,7 @@ The Facial Recognition API provide mechanisms for facial detection and recogniti
   
 ## Installation
 
-Before installing this API make sure you have the following itens installed:
+Before installing this API make sure you have the following items installed:
   - MySQL 
   - OpenCV 2.4
   - NodeJS v8+
